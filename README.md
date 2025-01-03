@@ -37,4 +37,4 @@
 - pytorch
 
   - `game_core`:  python class of the game of wordle
-  - `model.ipynb`: a simple pytorch model without training codes
+  - `model.ipynb`: a simple pytorch model without codes and data for training  
