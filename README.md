@@ -2,7 +2,7 @@
 
 ### word list
 
-- find from this [repository](https://github.com/3b1b/videos/tree/master/_2022/wordle)
+- find from [this](https://github.com/3b1b/videos/tree/master/_2022/wordle) repository
 
 
 
